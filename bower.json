@@ -1,0 +1,12 @@
+{
+	"name": "HOTS-guides",
+	"description": "An app listing good guides for Blizzard's HOTS.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"angular": "1.2.x",
+		"bootstrap": "3.2.x",
+		"angular-route": "1.2.x",
+		"auth0-angular": "1.1.x"
+	}
+}

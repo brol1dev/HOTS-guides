@@ -1,0 +1,15 @@
+{
+	"name": "HOTS-guides",
+	"description": "An app listing good guides for Blizzard's HOTS.",
+	"version": "0.0.1",
+	"private": true,
+	"dependencies": {
+		"bower": "1.3.x",
+		"express": "4.7.x"
+	},
+	"scripts": {
+		"postinstall": "bower install",
+
+		"start": "node app.js"
+	}
+}
